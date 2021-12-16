@@ -34,7 +34,7 @@ url: "https://https://jamcron.github.io/" # the base hostname & protocol for you
 #
 # 3. You must replace the parameter `baseurl` in _action_files/settings.ini with the same value as you set here but WITHOUT QUOTES.
 #
-baseurl: "research_blog" # the subpath of your site, e.g. "/blog".
+baseurl: "/research_blog" # the subpath of your site, e.g. "/blog".
 
 # Github and twitter are optional:
 minima:
